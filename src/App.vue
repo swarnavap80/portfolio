@@ -165,7 +165,7 @@ import contacts from "./components/contacts.vue";
 .content-5 p {
   font-family: "Roboto Mono", monospace;
   margin-top: 0.6em;
-  margin-left: 27.5%;
+  margin-left: 32.5%;
   margin-bottom: 10%;
 }
 </style>

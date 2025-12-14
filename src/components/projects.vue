@@ -44,12 +44,14 @@ export default {
         {
           title: " Project 2",
           description:
-            "Coming Soon.",
+            "Book mark app dyanmic page built using supabase vue and node js",
+            image: '/src/assets/3d-illustration-bookmark-icon-260nw-2696868009.webp'
         },
         {
           title: " Project 3",
           description:
-            "Coming Soon.",
+            "Ai Powered PPT Maker built using Gemini Api , ppt libray python and streamlit",
+            image: '/src/assets/ppt-maker.png'
         },
       ],
       animationTriggered: false,
